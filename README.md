@@ -8,3 +8,7 @@ With report generation capabilities
 ![alt text](screenshots/Full_Report.JPG)
 
 And more . . .
+
+# Pre-requisites
+
+In order to run this application you need to have SQL EXPRESS & .Net 3.5 installed on a windows XP or obove machine
