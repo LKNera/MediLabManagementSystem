@@ -3,7 +3,7 @@
 # MediLab Management System
 Simple system to manage patient data and report details of total blood cell count.
 
-![alt text](screenshots/main.JPG)
+![alt text](screenshots/main.jpg)
 
 With report generation capabilities
 
