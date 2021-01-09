@@ -4,14 +4,15 @@
 Simple system to manage patient data and report details of total blood cell count.
 
 ![alt text](screenshots/patients.gif)
-![alt text](screenshots/main.JPG)
 
 With report generation capabilities
 
 ![alt text](screenshots/testReports.gif)
-![alt text](screenshots/Full_Report.JPG)
 
 And more . . .
+
+![alt text](screenshots/Full_Report.JPG)
+![alt text](screenshots/main.JPG)
 
 # Pre-requisites
 
