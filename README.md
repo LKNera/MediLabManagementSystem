@@ -1,4 +1,4 @@
-[Download](https://github.com/LKNera/MediLabManagementSystem/releases/download/v1.0/MediLabManagementSystem-release.zip)
+#[Download](https://github.com/LKNera/MediLabManagementSystem/releases/download/v1.0/MediLabManagementSystem-release.zip)
 [License](https://github.com/LKNera/MediLabManagementSystem/blob/master/LICENSE)
 
 # MediLab Management System
